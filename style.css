@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    text-align: center;
+}
+
+h1 {
+    color: #ff4d6d;
+}
+
+.box {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px;
+}
+
+button {
+    background: #ff4d6d;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+ul {
+    width: 300px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    background: white;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+a {
+    color: blue;
+}
